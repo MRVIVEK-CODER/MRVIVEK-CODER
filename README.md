@@ -153,13 +153,12 @@ exec("hhhvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfc
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh") --> 
 
 &nbsp;
-- 👨🏽‍💻 HELLO I’m MRVIVEK-CODER
-- ⚡️ I’m looking to collaborate on I Am A Basic Ethical Hacker
-- 🤔 I’m looking for Knowledge
-- ⚡️ My Hobby is Hacking
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: cybercrimeahm@gmail.com
-
+- 👨🏽‍💻 𝐇𝐄𝐋𝐋𝐎 𝐈’𝐦 𝐌𝐑𝐕𝐈𝐕𝐄𝐊-𝐂𝐎𝐃𝐄𝐑
+- ⚡️ 𝐈’𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 𝐈 𝐀𝐦 𝐀 𝐁𝐚𝐬𝐢𝐜 𝐄𝐭𝐡𝐢𝐜𝐚𝐥 𝐇𝐚𝐜𝐤𝐞𝐫
+- 🤔 𝐈'𝐦 𝐁𝐚𝐬𝐢𝐜 𝐜𝐨𝐝𝐞𝐫
+- ⚡️ 𝐌𝐲 𝐇𝐨𝐛𝐛𝐲 𝐢𝐬 𝐇𝐚𝐜𝐤𝐢𝐧𝐠
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠, 𝐈 𝐚𝐦 𝐡𝐚𝐩𝐩𝐲 𝐭𝐨 𝐡𝐞𝐥𝐩;
+- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: 𝐜𝐲𝐛𝐞𝐫𝐜𝐫𝐢𝐦𝐞𝐚𝐡𝐦@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 <p align="center">
 <a href="https://github.com/MRVIVEK-CODER/FILECLONING"><img title="FILECLONING" src="https://github-readme-stats.vercel.app/api/pin/?username=MRVIVEK-CODER&repo=FILECLONING&theme=radical"></a>
