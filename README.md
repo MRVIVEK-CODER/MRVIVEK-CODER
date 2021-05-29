@@ -437,7 +437,7 @@ exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghv
 <a href="https://github.com/MRVIVEK-CODER/FILECLONING"><img title="FILECLONING" src="https://github-readme-stats.vercel.app/api/pin/?username=MRVIVEK-CODER&repo=FILECLONING&theme=radical"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MRVIVEK-CODER/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=MRVIVEK-CODER&repo=Delite&theme=highcontrast"></a>
+<a href="https://github.com/MRVIVEK-CODER/Delite"><img title="Delite" src="https://github-readme-stats.vercel.app/api/pin/?username=MRVIVEK-CODER&repo=Delite&theme=highcontrast"></a>
 </p>
 <p align="center">
 <a href="https://github.com/MRVIVEK-CODER/CRACK"><img title="CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark"></a>
