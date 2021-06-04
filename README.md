@@ -9,7 +9,7 @@
   <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
 </p>
 <div align="center">
-<img align="right" src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/blob/main/Developer.gif"/>
+<img align="center" src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/blob/main/Developer.gif"/>
 </div>
 
 # GITHUB STATUS.
