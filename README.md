@@ -13,8 +13,7 @@
 </div>
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/MRVIVEK-CODER)
-- [![GitHub followers](https://img.shields.io/github/followers/MRVIVEK-CODER.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MRVIVEK-CODER?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/MRVIVEK-CODERl[![GitHub followers](https://img.shields.io/github/followers/MRVIVEK-CODER.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MRVIVEK-CODER?tab=followers)
 
 <div align="center"> 
 </div>
@@ -210,7 +209,7 @@ exec("jgjjcbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxY
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcbbdbvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
 exec("hhhvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh") --> <p align="left">
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=MRVIVEK-CODER&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=MRVIVEK-CODER&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:Dark">
