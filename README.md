@@ -13,8 +13,9 @@
 </div>
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/MRVIVEK-CODERl[![GitHub followers](https://img.shields.io/github/followers/MRVIVEK-CODER.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MRVIVEK-CODER?tab=followers)
-
+- ![Profile views](https://gpvc.arturio.dev/MRVIVEK-CODER)
+- [![GitHub followers](https://img.shields.io/github/followers/MRVIVEK-CODER.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MRVIVEK-CODER?tab=followers)
+ 
 <div align="center"> 
 </div>
 <!-- exec("nbjmhytvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
