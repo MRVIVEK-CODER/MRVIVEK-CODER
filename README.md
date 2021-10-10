@@ -1,6 +1,6 @@
 #  W E L C O M E <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-## V I V E K C H A N D E L            
-( I N D I A 🇮🇳 )👋  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## H A C E R W H A I T A            
+( S R I L A N K A 🇱🇰 👋  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p align="center"><a href="https://github.com/MRVIVEK-CODER"><img src="https://j.top4top.io/p_1966skgw80.jpg" height='195' alt="VivekXD">
 <p align="center"><a href="https://wa.me/17087220306"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
@@ -170,7 +170,7 @@ exec("hhhvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfc
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh") --> 
 
 &nbsp;
-- 👨🏽‍💻 𝐇𝐄𝐋𝐋𝐎 𝐈’𝐦 𝐌𝐑𝐕𝐈𝐕𝐄𝐊-𝐂𝐎𝐃𝐄𝐑
+- 👨🏽‍💻 𝐇𝐄𝐋𝐋𝐎 𝐈’𝐦 𝐌𝐑WHAITA-𝐂𝐎𝐃𝐄𝐑
 - ⚡️ 𝐈’𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 𝐈 𝐀𝐦 𝐀 𝐁𝐚𝐬𝐢𝐜 𝐄𝐭𝐡𝐢𝐜𝐚𝐥 𝐇𝐚𝐜𝐤𝐞𝐫
 - 🤔 𝐈'𝐦 𝐁𝐚𝐬𝐢𝐜 𝐜𝐨𝐝𝐞𝐫
 - ⚡️ 𝐌𝐲 𝐇𝐨𝐛𝐛𝐲 𝐢𝐬 𝐇𝐚𝐜𝐤𝐢𝐧𝐠
