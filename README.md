@@ -13,7 +13,7 @@
 </div>
 
 # GITHUB STATUS.
-- ![](https://komarev.com/ghpvc/?=MRVIVEK-CODER&abbreviated=true)
+- ![](https://komarev.com/ghpvc/?=MRVIVEK-CODERlabel=PROFILE+VIEWS)
 - [![GitHub followers](https://img.shields.io/github/followers/MRVIVEK-CODER.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MRVIVEK-CODER?tab=followers)
  
 <div align="center"> 
